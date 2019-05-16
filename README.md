@@ -1,0 +1,1 @@
+# jspm-beta-issue-require-not-found
