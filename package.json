@@ -6,16 +6,16 @@
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
+    "@babel/preset-react": "^7.0.0",
     "@jspm/core": "^1.0.4",
     "acorn": "^6.1.1",
     "ajv": "^6.10.0",
-    "next": "^8.1.0",
+    "browserslist": "^4.6.0",
     "react-is": "^16.8.6",
     "rollup": "^1.12.1",
     "rollup-plugin-babel": "latest",
     "rollup-plugin-jspm": "^1.1.0",
-    "stylis": "^3.5.4",
-    "webpack": "^4.31.0"
+    "stylis": "^3.5.4"
   },
   "scripts": {
     "build": "rollup -c"
